@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaAlchemist&layout=compact&show_icons=true&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![JetBrains Academy](https://hyperskill.azureedge.net/static/img/icon.918d4622.svg)](https://hyperskill.org/profile/99042142)
+[![JetBrains Academy](https://hyperskill.azureedge.net/static/img/icon.918d4622.svg)](https://hyperskill.org/profile/99042142) JetBrains Academy
 
 <!--
 **DeltaAlchemist/DeltaAlchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
