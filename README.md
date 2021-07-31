@@ -2,13 +2,6 @@
 
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaAlchemist&show_icons=true&theme=tokyonight)](https://github.com/DeltaAlchemist/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaAlchemist&layout=compact&show_icons=true&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-**Follow me on:**
-
-[![JetBrains Academy](https://hyperskill.azureedge.net/static/img/icon.918d4622.svg)JetBrains Academy](https://hyperskill.org/profile/99042142)
-
-[![Leetcode](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)LeetCode](https://leetcode.com/delta_alchemist/)
-
 <!--
 **DeltaAlchemist/DeltaAlchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
