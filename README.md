@@ -1,7 +1,7 @@
 ### Hi there 👋
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeltaAlchemist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaAlchemist&layout=compact&langs_count=7&hide=html&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeltaAlchemist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaAlchemist&layout=compact&langs_count=7&hide=html&theme=tokyonight"/>
   </a>
 </div>
 
