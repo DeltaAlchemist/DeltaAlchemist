@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltaalchemist&label=Profile%20views&color=ffa70f&style=flat-square" alt="deltaalchemist" /> </p>
 
