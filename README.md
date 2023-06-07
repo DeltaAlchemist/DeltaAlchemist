@@ -1,5 +1,4 @@
-<h1 align="center">Hi all👋, I'm Henrique</h1>
-<h3 align="center">Currently studying Software Development and Test Automation</h3>
+<h3 align="center">Currently studying Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltaalchemist&label=Profile%20views&color=ffa70f&style=flat-square" alt="deltaalchemist" /> </p>
 
