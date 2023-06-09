@@ -9,7 +9,7 @@
   - React Native
   - Interactive bot development with Python
 
-  ### 🚀 Here you'll find all this technologies
+  ### 🚀 I've worked with these technologies
 
   #### 📚 Languages
   ![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)
